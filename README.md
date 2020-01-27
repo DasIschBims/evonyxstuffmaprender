@@ -1,2 +1,1 @@
-# evonyxstuffmaprender
-Minecraft Map render.
+Open index.html to view the Map
